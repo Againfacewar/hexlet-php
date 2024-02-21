@@ -1,0 +1,17 @@
+{
+    "name": "ucsus/hexlet-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ucsus\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ucsus",
+            "email": "ucsus@exbo.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
